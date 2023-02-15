@@ -1,0 +1,12 @@
+.parent{
+    height: 414px;
+    width: 414px;
+    background-color: green;
+}
+
+    .child{
+        height: 207px;
+        width: 207px;
+        color: rgb(2, 1, 1);
+        display: inline;
+    }

@@ -1,0 +1,36 @@
+*{
+    
+    margin: 0 auto;
+}
+h1{
+    color: blue;
+    text-align: center;
+    background-color: brown;
+}
+ul{
+    background-color: aqua;
+    list-style: none;
+    /* text-align: center; */
+    
+    
+}
+li{
+   display: inline-block;
+   margin: 10px;
+  
+
+   
+    }
+a{
+    text-decoration: none;
+   
+    color: #fff;    
+    
+}
+p{
+    color: blue;
+}
+.active{
+font-weight: bold;
+color:black;
+}
